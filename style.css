@@ -1,0 +1,58 @@
+body{
+	background-image: url("Bg_2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+    
+}
+
+
+#player1_name {
+	display: inline-block;
+	width: 355px;
+	height: 45px;
+	background-color: black;
+	color: white;
+	border: royalblue;
+	border-style: ridge;
+	border-width: 3px;
+}
+#player2_name{
+	display: inline-block;
+	width: 355px;
+	height: 45px;
+	background-color: black;
+	color: white;
+	border: royalblue;
+	border-style: ridge;
+	border-width: 3px;
+	
+}
+
+label{
+color: coral;
+font-size: 30px;	
+}
+#login{
+background-image: url("Bg_3.jpg");
+height: 500px;
+border-style: ridge;
+border-color: lawngreen;
+width: 510px;
+}
+#p1, #p2{
+	margin-top: 60px;
+}
+h2{
+	font-family: monospace;
+	color: lightblue;
+	font-size: 40px;
+	border-style: ridge;
+}
+#Log_in{
+	width: 500px;
+	height: 35px;
+	background-color: crimson;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	color: darkturquoise;
+}
